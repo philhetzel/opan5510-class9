@@ -23,9 +23,7 @@ venv.bak/
 
 # Project specific
 *.log
-*.csv
 *.xlsx
-data/
 output/
 
 # uv
